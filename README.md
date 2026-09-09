@@ -35,5 +35,6 @@ content performance, user behavior, and sentiment impact on engagement.
 
 ## 📌 Dataset
 
+"https://raw.githubusercontent.com/GeethaGunasekaran1/Dataset_rep/main/social_media_engagement_5000.csv"
 5,000 rows of social media post data including likes, comments, shares, impressions, 
 follower counts, sentiment, and post metadata.
